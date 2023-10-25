@@ -1,0 +1,160 @@
+@media (max-width: 1120px) {
+
+    .row {
+        display: block;
+
+    }
+
+    .container {
+        margin: 0 auto;
+    }
+
+    .nav {
+        display: block;
+
+    }
+
+
+
+    .header {
+        padding: 0;
+    }
+
+
+
+    .large-btn {
+
+        display: block;
+    }
+
+    .hero-wrapper h1 {
+        display: flex;
+
+    }
+
+    .large-btn span {
+        display: block;
+        gap: 8px;
+    }
+
+    .large-btn span :nth-child(1) {
+        font-size: 24px;
+        color: #333;
+    }
+
+    .large-btn span :nth-child(2) {
+        font-size: 32px;
+        font-weight: 500;
+    }
+
+
+    .col-6 {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .col-2 {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .hero .container {
+        justify-content: flex-end;
+    }
+
+    .rectangle-wrappe {
+        padding: 0;
+
+
+    }
+
+    .contain-btn {
+        padding: 4px 8px;
+    }
+
+    .hero-wrapper {
+        display: block;
+    }
+
+    .hero {
+        display: block;
+    }
+
+    .hero-action {
+        display: block;
+    }
+
+
+
+    .select-wrappe {
+        display: block;
+
+    }
+
+    .row {
+        display: block;
+    }
+
+    .smail {
+        display: block;
+    }
+
+    .inner-box {
+        display: block;
+
+    }
+
+
+
+    .inner-box p {
+        color: #000;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+    }
+
+    .inner-box p:nth-child(3) {
+        font-weight: 600;
+    }
+
+    .row-card {
+        display: block;
+    }
+
+    .box {
+        display: block;
+    }
+
+    .group-box {
+
+        display: block;
+
+    }
+
+
+
+
+    .rectangle-card {
+        padding: 0;
+        display: block;
+    }
+
+    .rectangle-card h1 {
+
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+
+    }
+
+
+    .footer-box {
+
+        display: block;
+
+    }
+
+
+
+
+}
